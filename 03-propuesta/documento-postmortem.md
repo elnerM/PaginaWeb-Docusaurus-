@@ -1,3 +1,7 @@
+# Documento post-mortem
+
+Para esta actividad el equipo asume que la solución propuesta presentó un incidente significativo durante su implementación. El incidente es simulado y está construido a partir de los hallazgos de las entrevistas.
+
 ## 4. Causa raíz
 
 ### 4.1 Análisis de los 5 porqués
