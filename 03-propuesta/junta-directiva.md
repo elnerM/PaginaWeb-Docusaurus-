@@ -10,7 +10,7 @@
 
 ## Escenario
 
-Un pequeño grupo de kioscos universitarios, con un punto de chucos (atendido por K y D) y uno de panes (atendido por B y E), enfrenta ventas cerca de 70 % más bajas por el cierre de la universidad. Compran y preparan cada día sin datos de demanda, todo se registra de memoria, hay filas en horas pico y no se enteran con anticipación de las semanas de exámenes.
+Un pequeño grupo de kioscos universitarios, con un punto de shucos (atendido por K y D) y uno de panes (atendido por B y E), enfrenta ventas cerca de 70 % más bajas por el cierre de la universidad. Compran y preparan cada día sin datos de demanda, todo se registra de memoria, hay filas en horas pico y no se enteran con anticipación de las semanas de exámenes.
 
 La junta debe decidir **qué solución construir, con qué alcance y qué limitaciones aceptar** (tiempo, costo y calidad).
 
