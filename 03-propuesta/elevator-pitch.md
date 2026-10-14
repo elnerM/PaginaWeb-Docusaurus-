@@ -15,3 +15,20 @@
 > **Descripción:** Elevator pitch: Comanda digital en mostrador y alerta de insumos entre locales
 >
 > **Justificación:** Presenta la propuesta individual que sirvió de punto de partida para la discusión de la junta directiva.
+## Darlin
+
+**Propuesta:** Registro digital de ventas diarias
+
+**Negocio al que va dirigida:** Chucos (K y D)
+
+**Resumen:** Al terminar la jornada se registra cuántos shucos se vendieron, qué productos se pidieron más y cuánto se vendió. Con las semanas, el sistema muestra los días de más y menos venta y los productos más solicitados, para planificar mejor las compras.
+
+**Requisitos que atiende:** RQ-01, RQ-02
+
+> 🎬 **[ESPACIO PARA VIDEO DE YOUTUBE]** Sube el video a YouTube y pega aquí el código de inserción (no solo el enlace):
+>
+> `<iframe width="560" height="315" src="https://www.youtube.com/embed/LjWuInR7Omo" title="Elevator pitch: Comanda digital en mostrador y alerta de insumos entre locales" frameborder="0" allowfullscreen></iframe>`
+>
+> **Descripción:** Elevator pitch: Registro digital de ventas diarias
+>
+> **Justificación:** Presenta la propuesta individual que sirvió de punto de partida para la discusión de la junta directiva.
