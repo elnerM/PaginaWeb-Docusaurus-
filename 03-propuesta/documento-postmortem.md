@@ -26,3 +26,16 @@ Para esta actividad el equipo asume que la solución propuesta presentó un inci
 | 12:30 PM | Elner | Revisó cómo se calcula la sugerencia y propuso un margen mínimo. | Evita subestimar la demanda. |
 | 1:00 PM | Apen | Registró cronológicamente el incidente para el post-mortem. | Base documental del análisis. |
 | 2:00 PM | Darlin | Dirigió la reunión de equipo y levantó el acta con los acuerdos. | Ordenó las acciones de mejora. |
+
+## 6. Acciones a futuro
+
+| N.º | Acción | Causa que ataca | Responsable | Plazo | Indicador |
+|---|---|---|---|---|---|
+| 1 | Asignar un responsable semanal para cargar y revisar el calendario con checklist. | Nivel 4: no había responsable | Brandon | Inmediato | Calendario actualizado cada lunes |
+| 2 | Alerta de calendario sin actualizar por más de 7 días. | Nivel 3: datos ausentes o antiguos | Ilse | 1 semana | Alerta visible en pantalla |
+| 3 | Mostrar nivel de confianza en la sugerencia y un margen de seguridad. | Causa raíz: sugerencia sin aviso de datos pobres | Elner | 2 semanas | Sugerencia con confianza visible |
+| 4 | Mínimo de historial antes de mostrar una sugerencia. | Nivel 3: historial no representativo | Elner | 2 semanas | Sin sugerencia con menos de 14 días de historial |
+| 5 | Pruebas en una semana de exámenes antes de cerrar una fase. | Nivel 5: sin prueba con demanda real | Karla | Próxima fase | Prueba documentada |
+| 6 | Agregar verificación de datos a los criterios de aceptación. | Nivel 5 | Karla | Inmediato | Criterios actualizados |
+| 7 | Capacitar al personal sobre cómo interpretar la sugerencia y plan de contingencia con otros locales. | Efecto: sin plan al agotarse el producto | Heidi y Darlin | 2 semanas | Guía de una página entregada |
+
