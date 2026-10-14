@@ -1,59 +1,79 @@
 # Flujo actual del negocio
 
-Esta sección muestra cómo funcionan hoy los negocios con base en las entrevistas. Cada diagrama debe incluir descripción y justificación.
+Esta sección muestra cómo funcionan hoy los negocios con base en las entrevistas realizadas. Cada diagrama incluye la secuencia detallada de su operación, su descripción y justificación.
 
-## Negocio de chucos (K y D)
+## Negocio de El Chato (K y D)
 
-Pasos para dibujar el diagrama:
+Pasos reflejados en el diagrama de flujo:
 
-1. Inicio: el equipo llega a la terminal aproximadamente a las 3:00 a. m. a comprar producto fresco (diario).
-2. A las 5:00 a. m. se preparan los ingredientes: repollo, guacamol, chirmol, cebolla y picante.
-3. Se abre el puesto y los chucos, que están casi listos y precocidos, se doran rápido.
-4. El cliente llega, pide, espera y paga.
-5. Decisión: ¿hay fila o mucha gente? Si sí, los estudiantes esperan y algunos se desesperan; si no, se entrega rápido.
-6. Decisión: ¿se acabó el producto? Si sí, se vuelve a preparar o se llama al panadero para que traiga más panes; si no, se continúa.
-7. Se atiende mientras haya clientes; si la universidad está cerrada o sin acceso, se regresa sin vender.
-8. Cierre de la jornada: no se registra nada, todo queda de memoria.
+1. **Inicio de Jornada.**
+2. **3:00 a. m. Compra en la terminal de producto fresco:** adquisición de cebolla, tomate y aguacate.
+3. **5:00 a. m. Llegada al local y preparación:** picado y cocción de repollo, preparación de guacamol y chirmol.
+4. **Apertura y llegada de clientes.**
+5. **Toma de pedido mental para mayor rapidez:** toma de órdenes sin registro físico ni digital.
+6. **Preparación al instante:** medio dorar el pan precocido y agregar los ingredientes solicitados.
+7. **Entrega rápida al estudiante.**
+8. **Decisión: ¿Se está quedando sin producto?**
+   - **No:** Regresa al punto de *Apertura y llegada de clientes* para continuar atendiendo.
+   - **Sí:** Se realiza la llamada al panadero o se compra producto extra fuera del presupuesto, y posteriormente se reanuda la atención a clientes.
+9. **Gestión de Bebidas (Proceso paralelo):** Lunes y jueves se realiza la toma de pedidos de Coca-Cola.
 
-> 🖼️ **[ESPACIO PARA DIAGRAMA DE FLUJO]** Guarda el archivo como `assets/img/flujo-negocio-kyd.png` y pega aquí esta línea ya completada:
+> 🖼️ **[DIAGRAMA DE FLUJO]**
+> https://imgur.com/a/LTUZBWQ
+> 
 >
-> `![Diagrama de flujo del funcionamiento actual del negocio de chucos K y D, desde la compra en la terminal hasta el cierre de la jornada.](../assets/img/flujo-negocio-kyd.png)`
+> `![Diagrama de flujo del funcionamiento actual del negocio de chucos K y D, desde las compras en la terminal hasta la gestión de insumos y bebidas.](../assets/img/flujo-negocio-kyd.png)`
 >
-> **Descripción:** Diagrama de flujo del funcionamiento actual del negocio de chucos K y D, desde la compra en la terminal hasta el cierre de la jornada.
+> **Descripción:** Diagrama de flujo del funcionamiento actual del negocio de chucos K y D, que abarca las compras madrugadoras en la terminal, la preparación matutina, el despacho rápido mediante pedidos mentales, la reposición de emergencia y la gestión periódica de bebidas.
 >
-> **Justificación:** Muestra los puntos donde se pierde tiempo o producto: compra sin datos, fila en horas pico y ausencia de registro.
+> **Justificación:** Muestra la dependencia de la memoria en horas pico, las compras fuera de presupuesto ante desabastos no planificados y la falta de un registro estructurado de ventas.
 
-## Negocio de panes (B y E)
+---
 
-Pasos para dibujar el diagrama:
+## Negocio del el Chatio (B y E)
 
-1. Inicio: preparación de ingredientes antes de abrir (picar, lavar, cocer, ordenar y limpiar).
-2. Revisión de verduras como tomate y cebolla, una por una, para sacar las que se pasaron.
-3. Se abre el puesto y el cliente llega, ve el rótulo y pide.
-4. Se pregunta si es para llevar o para comer ahí.
-5. Se parte el pan, se dora y se prepara a pedido según el gusto del cliente.
-6. Se empaca o se sirve.
-7. Decisión: ¿hay hora pico? Si sí, el equipo se turna para recordar los pedidos y, si olvida uno, vuelve a preguntar al cliente.
-8. Decisión: ¿se acabó un ingrediente? Si sí, se llama a los otros locales para pedir apoyo; si no, se continúa.
-9. Si llega producto dañado del proveedor, no se acepta y se pide cambio.
+Pasos reflejados en el diagrama de flujo:
 
-> 🖼️ **[ESPACIO PARA DIAGRAMA DE FLUJO]** Guarda el archivo como `assets/img/flujo-negocio-bye.png` y pega aquí esta línea ya completada:
+1. **Inicio de Jornada.**
+2. **Limpieza del local y revisión de insumos:** ordenamiento y evaluación inicial de inventarios.
+3. **Preparación de ingredientes:** lavar, picar y cocer repollo.
+4. **Apertura y llegada de clientes.**
+5. **Toma de pedido mental.**
+6. **Decisión: ¿Olvidó el pedido por alta demanda?**
+   - **Sí:** Volver a preguntar al cliente para reconfirmar la orden.
+   - **No:** Avanza directamente a la consulta de tipo de servicio.
+7. **Decisión: ¿Es para llevar o comer en el lugar?**
+   - **Para llevar:** Empacar producto.
+   - **Comer en el lugar:** Servir en plato.
+8. **Preparación al instante:** partir pan, dorar y agregar ingredientes al gusto del cliente.
+9. **Entrega del producto.**
+10. **Decisión: ¿Se agotó algún producto?**
+    - **No:** Regresa al estado de *Apertura y llegada de clientes*.
+    - **Sí:** Llamar a otros locales propios para pedir insumos prestados y retornar a la atención.
+11. **Recepción de Embuditos (Proceso paralelo):**
+    - **Decisión: ¿El producto viene dañado?**
+      - **Sí:** Rechazar entrega y pedir cambio.
+      - **No:** Aceptar entrega.
+
+> 🖼️ **[DIAGRAMA DE FLUJO]**
+>https://imgur.com/a/LmIttbV
+
 >
-> `![Diagrama de flujo del funcionamiento actual del negocio de panes B y E, desde la preparación previa hasta la entrega del pedido.](../assets/img/flujo-negocio-bye.png)`
+> `![Diagrama de flujo del funcionamiento actual del negocio del el Chatio B y E, desde la preparación inicial hasta la recepción de insumos y despacho al cliente.](../assets/img/flujo-negocio-bye.png)`
 >
-> **Descripción:** Diagrama de flujo del funcionamiento actual del negocio de panes B y E, desde la preparación previa hasta la entrega del pedido.
+> **Descripción:** Diagrama de flujo del funcionamiento actual del negocio de panes B y E, representando la preparación previa, la confirmación de pedidos propensa a olvidos, las modalidades de servido, la coordinación con sucursales vecinas y la inspección de insumos de proveedores.
 >
-> **Justificación:** Evidencia los puntos críticos: preparación larga, revisión manual de verduras, pedidos olvidados y faltantes de insumos.
+> **Justificación:** Evidencia los puntos críticos del proceso: dependencia de memoria en horas pico, necesidad de reconfirmar pedidos, falta de stock que obliga a préstamos entre sucursales y control manual de calidad con proveedores.
+
+---
 
 ## Puntos de dolor detectados
 
 | Punto de dolor | Negocio | Dónde ocurre en el flujo |
 |---|---|---|
-| Compra y preparación sin datos de demanda | K y D | Pasos 1 y 2 |
-| Filas en horas pico | K y D | Paso 5 |
-| Producto que se acaba y debe prepararse de nuevo | K y D | Paso 6 |
-| Sin registro de ventas | K y D | Paso 8 |
-| Preparación previa larga | B y E | Paso 1 |
-| Revisión manual de verduras | B y E | Paso 2 |
-| Pedidos olvidados en hora pico | B y E | Paso 7 |
-| Insumos que se acaban a medio despacho | B y E | Paso 8 |
+| Compras fuera de presupuesto por falta de previsión de demanda | K y D | Decisión *¿Se está quedando sin producto?* |
+| Dependencia de toma de pedidos mental | K y D | Paso *Toma de pedido mental para mayor rapidez* |
+| Ausencia total de registro digital o físico de ventas | K y D | Todo el flujo operativo |
+| Retraso por olvido de pedidos en momentos de alta demanda | B y E | Decisión *¿Olvidó el pedido por alta demanda?* |
+| Interrupción del despacho para solicitar préstamos a otros locales | B y E | Decisión *¿Se agotó algún producto?* |
+| Pérdida de tiempo en reconfirmación de órdenes | B y E | Paso *Volver a preguntar al cliente* |
