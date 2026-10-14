@@ -1,0 +1,17 @@
+## Elner
+
+**Propuesta:** Comanda digital en mostrador y alerta de insumos entre locales
+
+**Negocio al que va dirigida:** Panes (B y E)
+
+**Resumen:** Tablet liviana en el mostrador: con dos toques se elige el tipo de pan y si es para llevar o comer ahí, y la orden llega a la barra de preparación, evitando pedidos olvidados. Incluye un botón de Alerta de Insumos que avisa a los locales vecinos cuando un ingrediente está por terminarse.
+
+**Requisitos que atiende:** RQ-10, RQ-11, RQ-14
+
+>  **[ESPACIO PARA VIDEO DE YOUTUBE]** Sube el video a YouTube y pega aquí el código de inserción (no solo el enlace):
+>
+> `<iframe width="560" height="315" src="https://www.youtube.com/embed/[[ID_DEL_VIDEO]]" title="Elevator pitch: Comanda digital en mostrador y alerta de insumos entre locales" frameBorder="0" allowFullScreen></iframe>`
+>
+> **Descripción:** Elevator pitch: Comanda digital en mostrador y alerta de insumos entre locales
+>
+> **Justificación:** Presenta la propuesta individual que sirvió de punto de partida para la discusión de la junta directiva.
