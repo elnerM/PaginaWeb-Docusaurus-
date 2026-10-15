@@ -31,6 +31,37 @@ Para esta actividad el equipo asume que la solución propuesta presentó un inci
 | 12:30 PM | La sugerencia indica actividad alta y se prepara una segunda tanda. |
 | 2:00 PM | Reunión de equipo para registrar el incidente y definir mejoras. |
 
+## 3. Impacto
+
+### Quiénes se vieron afectados
+
+- **Dueña y personal del kiosco (Heidi):** debieron improvisar y atender con producto limitado.
+- **Estudiantes:** esperaron en fila o se fueron sin comprar.
+- **Local de panes (B y E):** tuvo que atender llamadas de apoyo en horas de trabajo.
+- **Equipo de desarrollo:** debió detener otras tareas para corregir el sistema.
+
+### Efectos directos
+
+- Producto agotado durante aproximadamente 2 horas en plena hora de mayor demanda (valor simulado).
+- Filas de hasta unos 40 estudiantes (valor simulado).
+- Interrupción del servicio normal por la preparación de emergencia.
+
+### Efectos indirectos
+
+- Ventas perdidas que no se pueden recuperar.
+- Pérdida de confianza de la clienta en la sugerencia diaria.
+- Retrasos en las tareas de la fase 2.
+- Posible pérdida de clientes que desistieron por la espera.
+
+### Gravedad
+
+| Afectado | Impacto |
+|---|---|
+| Negocio (ventas del día) | Alto |
+| Estudiantes (espera) | Medio |
+| Equipo de desarrollo (retrabajo) | Medio |
+| Datos del sistema | Bajo, no hubo pérdida de información |
+
 ## 4. Causa raíz
 
 ### 4.1 Análisis de los 5 porqués
