@@ -92,3 +92,21 @@ Cada integrante presenta su propuesta de solución en un video corto publicado e
 > **Descripción:** Elevator pitch: Registro digital de ventas diarias
 >
 > **Justificación:** Presenta la propuesta individual que sirvió de punto de partida para la discusión de la junta directiva.
+
+## Heidi
+
+**Propuesta:** Pedidos anticipados por código QR
+
+**Negocio al que va dirigida:** Shucos (K y D)
+
+**Resumen:** Un código QR cerca del negocio lleva a una página sencilla donde el estudiante elige su pedido y una hora aproximada de recogida, con opción de pago anticipado. El negocio organiza la preparación y quienes prefieran pedir en el puesto siguen haciéndolo como siempre.
+
+**Requisitos que atiende:** RQ-08, RQ-09, RQ-17
+
+>  **[ESPACIO PARA VIDEO DE YOUTUBE]**
+>
+> `<iframe width="560" height="315" src="https://www.youtube.com/embed/[[ID_DEL_VIDEO]]" title="Elevator pitch: Pedidos anticipados por código QR" frameBorder="0" allowFullScreen></iframe>`
+>
+> **Descripción:** Elevator pitch: Pedidos anticipados por código QR
+>
+> **Justificación:** Presenta la propuesta individual que sirvió de punto de partida para la discusión de la junta directiva.
