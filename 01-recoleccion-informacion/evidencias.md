@@ -37,32 +37,25 @@ Toda evidencia multimedia incluye su descripción y justificación. Sin ellas, e
 
 ## Fotografías
 
-### Foto 1: Entrevista en el negocio de shucos
+### Foto 1: Entrevista a Los Chatos
 
 >  **[ESPACIO PARA IMAGEN]** 
 >
-> `![Integrantes del equipo entrevistando a la persona encargada del negocio de chucos.](../assets/img/foto-entrevista-kyd.jpg)`
+> <img width="1600" height="1200" alt="Los chatos prueba entrevista" src="https://github.com/user-attachments/assets/72e93973-2908-4aef-9412-dd51da5556b6" />
+
 >
 > **Descripción:** Integrantes del equipo entrevistando a la persona encargada del negocio de shucos.
 >
 > **Justificación:** Evidencia que la entrevista se realizó en el lugar de trabajo.
 
-### Foto 2: Entrevista en el negocio de panes
+### Foto 2: Entrevista a los Chatios
 
 > **[ESPACIO PARA IMAGEN]**
 >
-> `![Integrantes del equipo entrevistando a Alejandro en su negocio de panes.](../assets/img/foto-entrevista-bye.jpg)`
+> <img width="1600" height="1200" alt="el chatio prueba entrevista" src="https://github.com/user-attachments/assets/6409dd90-3692-47e6-8993-cd5be75e4ca9" />
+
 >
 > **Descripción:** Integrantes del equipo entrevistando a Alejandro en su negocio de panes.
 >
 > **Justificación:** Evidencia que la entrevista se realizó en el lugar de trabajo.
 
-### Foto 3: Espacio de trabajo y producto
-
-> **[ESPACIO PARA IMAGEN]**
->
-> `![Mostrador y área de preparación del negocio, donde se aprecian los ingredientes y el espacio de atención.](../assets/img/foto-puesto-trabajo.jpg)`
->
-> **Descripción:** Mostrador y área de preparación del negocio, donde se aprecian los ingredientes y el espacio de atención.
->
-> **Justificación:** Permite entender el contexto físico donde operaría la solución (mostrador, área de preparación, cola).
