@@ -2,6 +2,19 @@
 
 Para esta actividad el equipo asume que la solución propuesta presentó un incidente significativo durante su implementación. El incidente es simulado y está construido a partir de los hallazgos de las entrevistas.
 
+## 1. Resumen del incidente
+
+| Dato | Detalle |
+|---|---|
+| Fecha | 21 de septiembre, primer lunes de la semana de exámenes presenciales |
+| Duración | Aproximadamente 3 horas (de 9:40 AM a 12:30 PM) |
+| Sistemas afectados | Módulo de sugerencia diaria y calendario de actividad universitaria |
+| Procesos afectados | Compra y preparación de producto, atención en el mostrador |
+| Áreas del negocio | Kiosco de Shucos El Chatío y apoyo del local de panes Los Chatos |
+| Gravedad | Alta |
+
+**¿Qué ocurrió?** Durante la primera semana de exámenes tras la entrega de la fase 1, la sugerencia diaria indicó una actividad baja y recomendó preparar poco producto. En realidad llegaron muchos más estudiantes de lo esperado, el producto se agotó a media mañana y se formaron filas. La causa inmediata fue que el calendario no tenía cargadas las
+
 ## 2. Línea de tiempo (timeline)
 
 | Hora aproximada | Evento |
