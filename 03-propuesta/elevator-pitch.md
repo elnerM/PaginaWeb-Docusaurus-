@@ -57,6 +57,26 @@ Cada integrante presenta su propuesta de solución en un video corto publicado e
 > **Descripción:** Elevator pitch: Registro de pedidos con doble toque y sugerencia predictiva diaria
 >
 > **Justificación:** Presenta la propuesta individual que sirvió de punto de partida para la discusión de la junta directiva.
+
+## Karla
+
+**Propuesta:** Planificación y alertas según la actividad universitaria
+
+**Negocio al que va dirigida:** Shucos (K y D)
+
+**Resumen:** Herramienta sencilla que reúne fechas de exámenes, semanas de clases, vacaciones y avisos, y permite anotar aproximadamente cuánto se vende. Con eso muestra recomendaciones como "esta semana hay varios exámenes y puede aumentar la cantidad de estudiantes", como referencia para decidir cuánto preparar.
+
+**Requisitos que atiende:** RQ-03, RQ-04, RQ-05
+
+> *[ESPACIO PARA VIDEO DE YOUTUBE]* 
+>
+> `<iframe width="560" height="315" src="https://www.youtube.com/embed/[[ID_DEL_VIDEO]]" title="Elevator pitch: Control de inventario sencillo con alerta de mínimo" frameBorder="0" allowFullScreen></iframe>`
+>
+> 
+> *Descripción:* Elevator pitch: Planificación y alertas según la actividad universitaria
+>
+> *Justificación:* Presenta la propuesta individual que sirvió de punto de partida para la discusión de la junta directiva.
+
 ## Ilse
 
 **Propuesta:** Control de inventario sencillo con alerta de mínimo
