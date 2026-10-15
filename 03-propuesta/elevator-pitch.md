@@ -12,9 +12,9 @@ Cada integrante presenta su propuesta de solución en un video corto publicado e
 
 **Requisitos que atiende:** RQ-12, RQ-13, RQ-14, RQ-16
 
-> **[ESPACIO PARA VIDEO DE YOUTUBE]** 
+> **[ESPACIO PARA VIDEO DE YOUTUBE]**
+> https://youtu.be/3piAljLHerE
 >
-> `<iframe width="560" height="315" src="https://www.youtube.com/embed/[[ID_DEL_VIDEO]]" title="Elevator pitch: Semáforo de frescura y lista de preparación" frameBorder="0" allowFullScreen></iframe>`
 >
 > **Descripción:** Elevator pitch: Semáforo de frescura y lista de preparación
 >
@@ -31,9 +31,8 @@ Cada integrante presenta su propuesta de solución en un video corto publicado e
 
 **Requisitos que atiende:** RQ-10, RQ-11, RQ-14
 
->  **[ESPACIO PARA VIDEO DE YOUTUBE]** Sube el video a YouTube y pega aquí el código de inserción (no solo el enlace):
->
-> `<iframe width="560" height="315" src="https://www.youtube.com/embed/[[ID_DEL_VIDEO]]" title="Elevator pitch: Comanda digital en mostrador y alerta de insumos entre locales" frameBorder="0" allowFullScreen></iframe>`
+>  **[ESPACIO PARA VIDEO DE YOUTUBE]**
+> https://youtu.be/LjWuInR7Omo 
 >
 > **Descripción:** Elevator pitch: Comanda digital en mostrador y alerta de insumos entre locales
 >
@@ -51,8 +50,8 @@ Cada integrante presenta su propuesta de solución en un video corto publicado e
 **Requisitos que atiende:** RQ-01, RQ-03, RQ-04, RQ-10, RQ-14
 
 > **[ESPACIO PARA VIDEO DE YOUTUBE]**
+> https://youtu.be/kgefOqJEEVs
 >
-> `<iframe width="560" height="315" src="https://www.youtube.com/embed/[[ID_DEL_VIDEO]]" title="Elevator pitch: Registro de pedidos con doble toque y sugerencia predictiva diaria" frameBorder="0" allowFullScreen></iframe>`
 >
 > **Descripción:** Elevator pitch: Registro de pedidos con doble toque y sugerencia predictiva diaria
 >
@@ -70,7 +69,7 @@ Cada integrante presenta su propuesta de solución en un video corto publicado e
 
 > *[ESPACIO PARA VIDEO DE YOUTUBE]* 
 >
-> `<iframe width="560" height="315" src="https://www.youtube.com/embed/[[ID_DEL_VIDEO]]" title="Elevator pitch: Control de inventario sencillo con alerta de mínimo" frameBorder="0" allowFullScreen></iframe>`
+> https://youtube.com/shorts/zcVZbu8D-3c?feature=share
 >
 > 
 > *Descripción:* Elevator pitch: Planificación y alertas según la actividad universitaria
@@ -89,7 +88,6 @@ Cada integrante presenta su propuesta de solución en un video corto publicado e
 
 >  **[ESPACIO PARA VIDEO DE YOUTUBE]**
 >
-> `<iframe width="560" height="315" src="https://www.youtube.com/embed/[[ID_DEL_VIDEO]]" title="Elevator pitch: Control de inventario sencillo con alerta de mínimo" frameBorder="0" allowFullScreen></iframe>`
 >
 > **Descripción:** Elevator pitch: Control de inventario sencillo con alerta de mínimo
 >
@@ -105,9 +103,9 @@ Cada integrante presenta su propuesta de solución en un video corto publicado e
 
 **Requisitos que atiende:** RQ-01, RQ-02
 
-> 🎬 **[ESPACIO PARA VIDEO DE YOUTUBE]** Sube el video a YouTube y pega aquí el código de inserción (no solo el enlace):
+> 🎬 **[ESPACIO PARA VIDEO DE YOUTUBE]** 
 >
-> `<iframe width="560" height="315" src="https://www.youtube.com/embed/LjWuInR7Omo" title="Elevator pitch: Comanda digital en mostrador y alerta de insumos entre locales" frameborder="0" allowfullscreen></iframe>`
+> https://youtube.com/shorts/1MmnVy27EJk?feature=share
 >
 > **Descripción:** Elevator pitch: Registro digital de ventas diarias
 >
@@ -125,7 +123,7 @@ Cada integrante presenta su propuesta de solución en un video corto publicado e
 
 >  **[ESPACIO PARA VIDEO DE YOUTUBE]**
 >
-> `<iframe width="560" height="315" src="https://www.youtube.com/embed/[[ID_DEL_VIDEO]]" title="Elevator pitch: Pedidos anticipados por código QR" frameBorder="0" allowFullScreen></iframe>`
+> https://youtube.com/shorts/DBw5NlA0MNU?feature=share
 >
 > **Descripción:** Elevator pitch: Pedidos anticipados por código QR
 >
