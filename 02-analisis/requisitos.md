@@ -5,7 +5,7 @@ Cada requisito tiene un identificador único y una descripción en lenguaje senc
 
 - **Prioridad:** Alta, Media o Baja según la urgencia para el negocio.
 - **Fase1:** es lo que se construye primero
-- **Fase2:** es lo que se evalúa después (ver `03-propuesta/acuerdos-tradeoffs.md`).
+- **Fase2:** es lo que se evalúa después (ver 03-propuesta).
 
 | ID | Nombre | Descripción | Origen | Prioridad | Fase | Evidencia en la entrevista |
 |---|---|---|---|---|---|---|
