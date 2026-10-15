@@ -19,7 +19,7 @@ Toda evidencia multimedia incluye su descripción y justificación. Sin ellas, e
 
 > **[ESPACIO PARA AUDIO]**
 >
-> `<audio controls src="/[[NOMBRE-DEL-REPOSITORIO]]/audio/entrevista-kyd.mp3"></audio>`
+> https://drive.google.com/file/d/1sVMMedT7Ul_T9fYFtDdOe4GGY-IAiD8D/view?usp=sharing Audio karla y darlin
 >
 > **Descripción:** Grabación completa de la entrevista realizada al negocio de shucos K y D.
 >
@@ -29,7 +29,7 @@ Toda evidencia multimedia incluye su descripción y justificación. Sin ellas, e
 
 >  **[ESPACIO PARA AUDIO]** 
 >
-> `<audio controls src="/[[NOMBRE-DEL-REPOSITORIO]]/audio/entrevista-bye.mp3"></audio>`
+> https://drive.google.com/file/d/1QcJLzYOOrlpg7lnfHTL8lir8HJOvJhDM/view?usp=sharing Audio Brandon y Elner
 >
 > **Descripción:** Grabación completa de la entrevista realizada al negocio de panes B y E.
 >
