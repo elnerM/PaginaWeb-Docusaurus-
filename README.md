@@ -12,9 +12,8 @@ Este repositorio documenta el trabajo de campo y el análisis realizado con dos 
 | Recurso | Enlace |
 |---|---|
 | Sitio de documentación (Docusaurus) | Pendiente |
-| Tablero de Trello | https://trello.com/invite/b/6ac72623442cb8160f6008d1/ATTI28f86a5a8bb41b434210b12f9d916686B4BCF4D0/mi-tablero-de-trello|
-| Video de la junta directiva (YouTube) | PENDIENTE |
-|Video de los pitch|    PENDIENTE   |
+| Tablero de Trello | [Ir al trello](https://trello.com/invite/b/6ac72623442cb8160f6008d1/ATTI28f86a5a8bb41b434210b12f9d916686B4BCF4D0/mi-tablero-de-trello)|
+| Video de la junta directiva (YouTube) | [Ver video en YouTube](https://youtu.be/60OT3E19rYY) |
 
 ## Equipo
 
@@ -33,7 +32,6 @@ Este repositorio documenta el trabajo de campo y el análisis realizado con dos 
 ```text
 Proyecto2/
 ├── README.md
-├── assets/                      imágenes, mockups y diagramas
 ├── 01-recoleccion-informacion/
 │   ├── preguntas.md
 │   ├── evidencias.md
