@@ -2,6 +2,22 @@
 
 Para esta actividad el equipo asume que la solución propuesta presentó un incidente significativo durante su implementación. El incidente es simulado y está construido a partir de los hallazgos de las entrevistas.
 
+## 2. Línea de tiempo (timeline)
+
+| Hora aproximada | Evento |
+|---|---|
+| 3:00 AM | Heidi compra en la terminal siguiendo la sugerencia: actividad baja. |
+| 5:00 AM | Inicia la preparación con las cantidades recomendadas. |
+| 7:30 AM | Apertura del puesto con ventas normales. |
+| 9:40 AM | Llegan más estudiantes de lo habitual por los exámenes de la facultad. |
+| 10:15 AM | Se agota el aguacate y se empiezan a acabar los panes; comienza la fila. |
+| 10:30 AM | Heidi llama a otro local para pedir apoyo con producto. |
+| 11:00 AM | Heidi reporta el problema a Brandon. Ilse revisa el sistema y detecta que el calendario no tiene los exámenes. |
+| 11:45 AM | Ilse carga manualmente las fechas desde la plataforma de la facultad. |
+| 12:10 PM | Karla verifica la sugerencia corregida con tres casos de prueba. |
+| 12:30 PM | La sugerencia indica actividad alta y se prepara una segunda tanda. |
+| 2:00 PM | Reunión de equipo para registrar el incidente y definir mejoras. |
+
 ## 4. Causa raíz
 
 ### 4.1 Análisis de los 5 porqués
