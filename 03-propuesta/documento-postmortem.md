@@ -74,6 +74,13 @@ Para esta actividad el equipo asume que la solución propuesta presentó un inci
 | 4 | ¿Por qué el calendario no tenía esas fechas? | Porque la carga era manual y no había un responsable ni una fecha de revisión definida. |
 | 5 | ¿Por qué no había responsable ni revisión? | Porque al priorizar la fecha de entrega, los criterios de aceptación no incluyeron verificar los datos del calendario ni probar con una semana de exámenes real. |
 
+### 4.2 Causa raíz y decisiones del proyecto
+
+**Causa raíz.** El sistema dependía de datos cargados a mano (calendario de exámenes) sin un proceso de actualización ni una validación previa, y la sugerencia no avisaba cuando sus datos eran pobres o antiguos.
+
+**Relación con las decisiones del proyecto.** En la junta directiva se acordó una fecha firme de entrega y un piloto de un día. El piloto se hizo en un día normal, no en una semana de exámenes, y los criterios de aceptación revisaban la funcionalidad (dos toques, sugerencia visible) pero no la calidad ni la vigencia de los datos. Fue una consecuencia del trade-off entre tiempo y alcance, no de un error de una sola persona.
+
+
 ## 5. Acciones tomadas para solucionarlo
 
 | Hora | Quién | Acción | Aporte a la solución |
