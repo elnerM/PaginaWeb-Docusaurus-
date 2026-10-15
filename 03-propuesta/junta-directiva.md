@@ -2,7 +2,7 @@
 
 ## Video de la junta
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/[[ID_DEL_VIDEO]]" title="Simulación de la junta directiva técnica de 45 minutos" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/60OT3E19rYY
 
 > **Descripción:** Simulación de la junta directiva técnica de 45 minutos.
 >
@@ -48,17 +48,17 @@ Durante la reunión se usaron documentos físicos simulados:
 3. **Documento 3:** Propuesta con alternativas (paquetes A, B y C).
 4. **Documento 4:** Acta de reunión.
 
-![Documentos impresos sobre la mesa durante la junta directiva (hallazgos, impacto y riesgos, alternativas y acta).](../assets/img/material-apoyo-junta.jpg)
+![Documentos impresos sobre la mesa durante la junta directiva (hallazgos, impacto y riesgos, alternativas y acta]
+<img width="994" height="584" alt="img 1" src="https://github.com/user-attachments/assets/0b1602e9-7bdd-4998-baa2-a30821cbee78" />
+<img width="920" height="429" alt="img 2" src="https://github.com/user-attachments/assets/bfeba0b0-0c61-481a-8d0a-bf847b258187" />
+<img width="487" height="509" alt="img 3" src="https://github.com/user-attachments/assets/7c59970e-ab99-466b-83ec-ea0fe931f2f7" />
+
+
+
 
 > **Descripción:** Documentos impresos sobre la mesa durante la junta directiva (hallazgos, impacto y riesgos, alternativas y acta).
 >
 > **Justificación:** Demuestra el uso de material de apoyo físico durante la simulación, como lo exige la actividad.
-
-![Acta de reunión completada al final de la junta con la decisión, el alcance y los responsables.](../assets/img/acta-junta-completada.jpg)
-
-> **Descripción:** Acta de reunión completada al final de la junta con la decisión, el alcance y los responsables.
->
-> **Justificación:** Respalda los acuerdos documentados en `acuerdos-tradeoffs.md`.
 
 ## Técnicas de comunicación asertiva aplicadas
 
