@@ -38,11 +38,30 @@ Cada integrante presenta su propuesta de solución en un video corto publicado e
 > **Descripción:** Elevator pitch: Comanda digital en mostrador y alerta de insumos entre locales
 >
 > **Justificación:** Presenta la propuesta individual que sirvió de punto de partida para la discusión de la junta directiva.
+
+## Ilse
+
+**Propuesta:** Control de inventario sencillo con alerta de mínimo
+
+**Negocio al que va dirigida:** Shucos (K y D)
+
+**Resumen:** Sistema para teléfono o computadora donde se registra al inicio del día cuánto producto hay, se actualizan solo los productos principales y se muestra una alerta cuando un producto llega a una cantidad mínima. Se propone empezar solo con registrar productos, actualizar cantidades y alertas.
+
+**Requisitos que atiende:** RQ-06, RQ-07, RQ-14
+
+>  **[ESPACIO PARA VIDEO DE YOUTUBE]**
+>
+> `<iframe width="560" height="315" src="https://www.youtube.com/embed/[[ID_DEL_VIDEO]]" title="Elevator pitch: Control de inventario sencillo con alerta de mínimo" frameBorder="0" allowFullScreen></iframe>`
+>
+> **Descripción:** Elevator pitch: Control de inventario sencillo con alerta de mínimo
+>
+> **Justificación:** Presenta la propuesta individual que sirvió de punto de partida para la discusión de la junta directiva.
+
 ## Darlin
 
 **Propuesta:** Registro digital de ventas diarias
 
-**Negocio al que va dirigida:** Chucos (K y D)
+**Negocio al que va dirigida:** Shucos (K y D)
 
 **Resumen:** Al terminar la jornada se registra cuántos shucos se vendieron, qué productos se pidieron más y cuánto se vendió. Con las semanas, el sistema muestra los días de más y menos venta y los productos más solicitados, para planificar mejor las compras.
 
