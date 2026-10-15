@@ -39,6 +39,24 @@ Cada integrante presenta su propuesta de solución en un video corto publicado e
 >
 > **Justificación:** Presenta la propuesta individual que sirvió de punto de partida para la discusión de la junta directiva.
 
+
+## Kevyn
+
+**Propuesta:** Registro de pedidos con doble toque y sugerencia predictiva diaria
+
+**Negocio al que va dirigida:** Panes (B y E, "Los Chatos")
+
+**Resumen:** Aplicación de celular pensada para alta demanda, presentada desde la perspectiva de calidad. Un doble toque registra el pedido, sin menús ni texto, para evitar olvidos y guardar qué se vende en tiempo real. El sistema cruza esas ventas con el calendario de exámenes de la universidad y da una sugerencia predictiva diaria de cuánto pan o repollo extra preparar. Propone instalar una versión de prueba en un teléfono y hacer un test en vivo durante un turno de almuerzo.
+
+**Requisitos que atiende:** RQ-01, RQ-03, RQ-04, RQ-10, RQ-14
+
+> **[ESPACIO PARA VIDEO DE YOUTUBE]**
+>
+> `<iframe width="560" height="315" src="https://www.youtube.com/embed/[[ID_DEL_VIDEO]]" title="Elevator pitch: Registro de pedidos con doble toque y sugerencia predictiva diaria" frameBorder="0" allowFullScreen></iframe>`
+>
+> **Descripción:** Elevator pitch: Registro de pedidos con doble toque y sugerencia predictiva diaria
+>
+> **Justificación:** Presenta la propuesta individual que sirvió de punto de partida para la discusión de la junta directiva.
 ## Ilse
 
 **Propuesta:** Control de inventario sencillo con alerta de mínimo
