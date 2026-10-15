@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproyecto02_asertiva=self.webpackChunkproyecto02_asertiva||[]).push([["56"],{8552(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

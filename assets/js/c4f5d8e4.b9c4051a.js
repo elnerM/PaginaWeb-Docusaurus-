@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproyecto02_asertiva=self.webpackChunkproyecto02_asertiva||[]).push([["823"],{7176(e,r,c){c.r(r),c.d(r,{default:()=>s});var a=c(4848);c(6540);var o=c(6347);function s(){return(0,a.jsx)(o.rd,{to:"/docs/01-recoleccion-informacion/evidencias.md"})}}}]);
