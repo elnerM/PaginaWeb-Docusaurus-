@@ -1,60 +1,43 @@
-# Proyecto 2: Toma de requerimientos y propuesta de solución para kioscos universitarios
+# Website
 
-Curso: Comunicación Asertiva · Facultad de Ingeniería · Ciencias y Sistemas
-Grupo 3
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-## Descripción
+## Installation
 
-Este repositorio documenta el trabajo de campo y el análisis realizado con dos negocios de comida ubicados dentro del entorno universitario: un puesto de **shucos (K y D)** y un puesto de **panes con ingredientes a pedido (B y E)**. A partir de las entrevistas se identificaron los problemas del negocio, se levantaron requisitos, se simuló una junta directiva técnica para decidir la solución y se redactó un post-mortem de un incidente simulado.
-
-## Enlaces oficiales
-
-| Recurso | Enlace |
-|---|---|
-| Sitio de documentación (Docusaurus) | Pendiente |
-| Tablero de Trello | [Ir al trello](https://trello.com/invite/b/6ac72623442cb8160f6008d1/ATTI28f86a5a8bb41b434210b12f9d916686B4BCF4D0/mi-tablero-de-trello)|
-| Video de la junta directiva (YouTube) | [Ver video en YouTube](https://youtu.be/60OT3E19rYY) |
-
-## Equipo
-
-| Integrante | Usuario de GitHub |
-|---|---|
-| Brandon | BrandonZt0 |
-| Elner | elnerM|
-| Apen | azivek |
-| Karla | KarlaOro21 |
-| Ilse | Elimm-Mua |
-| Heidi | Beauliwd|
-| Darlin | chiki-20 |
-
-## Estructura del repositorio
-
-```text
-Proyecto2/
-├── README.md
-├── 01-recoleccion-informacion/
-│   ├── preguntas.md
-│   ├── evidencias.md
-│   └── justificacion.md
-├── 02-analisis/
-│   ├── requisitos.md
-│   └── flujo-negocio.md
-├── 03-propuesta/
-│   ├── elevator-pitch.md
-│   ├── junta-directiva.md
-│   ├── acuerdos-tradeoffs.md
-│   ├── flujo-solucion.md
-│   └── documento-postmortem.md
-├── 04-tabla-participacion/
-│   └── participacion.md
-└── 05-issues-simulados/
-    └── issue-01 ... issue-07
+```bash
+npm install
 ```
 
-## Cómo trabajamos en equipo
+**Note**: feel free to use the package manager of your choice.
 
+## Local Development
 
-1. Cada integrante edita únicamente los archivos o secciones que le fueron asignados.
-2. Se hace commit con un mensaje claro y se hace `git push` de inmediato.
-3. Si dos personas deben editar el mismo archivo, se coordina por el grupo antes de hacerlo.
-4. Las tareas se organizan en el tablero de Trello enlazado arriba.
+```bash
+npm run start
+```
+
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+## Build
+
+```bash
+npm run build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+## Deployment
+
+Using SSH:
+
+```bash
+USE_SSH=true npm run deploy
+```
+
+Not using SSH:
+
+```bash
+GIT_USER=<Your GitHub username> npm run deploy
+```
+
+If you are using GitHub Pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
